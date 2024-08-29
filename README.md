@@ -103,3 +103,9 @@ Users can undo and redo changes to revert any unwanted edits made to the grid.
 
 This README provides an in-depth guide for users and contributors to understand, install, and utilize the project. Let me know if you'd like to modify or add specific details!
 # SheetSpreadApp
+
+# My Project
+
+This is my awesome project.
+
+![Project Screenshot](ui_image.png)
